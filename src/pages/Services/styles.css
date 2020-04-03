@@ -63,6 +63,7 @@
 
     .container-services .services .service img{
         height: 200px;
+        width: auto;
     }
     .container-services .final-text h3{
         font-size: 24px;
