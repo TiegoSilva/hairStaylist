@@ -6,7 +6,7 @@ import Header from '../../components/Header'
 
 import Manicure from '../../assets/service-manicure.png'
 import Mecha from '../../assets/service-mechas.png'
-import Sombrancelha from '../../assets/service-sombrancelha.png'
+import Sobrancelha from '../../assets/service-sombrancelha.png'
 
 export default function Services() {
   return (
@@ -33,9 +33,9 @@ export default function Services() {
             </div>
 
             <div className="service">
-                <img src={Sombrancelha} alt="Serviço de design de sombrancelhas"  /> 
+                <img src={Sobrancelha} alt="Serviço de design de sobrancelhas"  /> 
                 <div>
-                    <h4>Designer de <br />sombrancelha</h4>
+                    <h4>Design de <br />sobrancelha</h4>
                 </div>
             </div>
         </div>

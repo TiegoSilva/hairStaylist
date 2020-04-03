@@ -7,10 +7,12 @@
 
   max-width: 100%;
 }
+
 a{
   text-decoration: none;
   color: #313131;
 }
+
 body{
   font: 400 22px Prata, sans-serif;
   background-color: #f4f4ee;
@@ -22,7 +24,8 @@ body{
       max-width: 100%;
   }
   .container-home img{
-    height: 50%;
+    width: 90%;
+    height: auto;
     align-self: flex-end;
   }
 }
