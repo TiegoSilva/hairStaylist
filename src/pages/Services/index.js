@@ -6,7 +6,7 @@ import Header from '../../components/Header'
 
 import Manicure from '../../assets/service-manicure.png'
 import Mecha from '../../assets/service-mechas.png'
-import Sobrancelha from '../../assets/service-sombrancelha.png'
+import Sobrancelha from '../../assets/service-sobrancelha.png'
 
 export default function Services() {
   return (
