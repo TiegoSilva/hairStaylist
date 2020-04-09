@@ -24,3 +24,15 @@
 .container-contact .icons{
     margin-top: 40px;
 }
+
+.addressText{
+    position: absolute; 
+
+    bottom: 50px;
+    padding: 0px 20px;
+    margin-top: 120px;
+    
+    text-align: center;
+    font-weight: lighter;
+    font-style: italic;
+}
