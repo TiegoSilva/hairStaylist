@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import './styles.css'
 
 import Header from '../../components/Header'
-import { MessageCircle } from 'react-feather';
+import Cta from './../../assets/cta-button.png';
 
 
 export default function Contact() {
@@ -21,7 +21,7 @@ export default function Contact() {
         </div>
         <div className="icons">
             <a href="https://api.whatsapp.com/send?phone=555521973243002&text=Vim%20atrav%C3%A9s%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es!" >
-              <MessageCircle size='50' color="#808080" />
+              <img src={Cta} alt="call to action"/>
             </a>&nbsp;&nbsp;
         </div>
 

@@ -15,13 +15,14 @@ a{
 
 body{
   font: 400 22px Prata, sans-serif;
-  background-color: #f4f4ee;
+  background-image: url("./assets/hairstylist.png");
+  background-size: cover;
   -webkit-font-smoothing: antialiased;
 }
 
 @media(max-width: 960px){
   *{
-      max-width: 100%;
+    max-width: 100%;
   }
   .container-home img{
     width: 90%;

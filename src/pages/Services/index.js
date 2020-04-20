@@ -4,9 +4,9 @@ import './styles.css'
 
 import Header from '../../components/Header'
 
-import Manicure from '../../assets/service-manicure.png'
-import Mecha from '../../assets/service-mechas.png'
-import Sobrancelha from '../../assets/service-sobrancelha.png'
+import Manicure from '../../assets/service-nail.webp'
+import Mecha from '../../assets/service-hair.png'
+import Sobrancelha from '../../assets/service-browneye.png'
 
 export default function Services() {
   return (
@@ -21,7 +21,7 @@ export default function Services() {
             <div className="service">
                 <img src={Mecha} alt="Serviço de confecção mechas" />
                 <div>
-                    <h4>Mechas</h4>
+                    <h4>Cabelereiro em geral</h4>
                 </div> 
             </div>
             
