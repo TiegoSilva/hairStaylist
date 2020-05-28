@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.31313403.chunk.css",
-    "main.js": "/static/js/main.4fbdc3fa.chunk.js",
-    "main.js.map": "/static/js/main.4fbdc3fa.chunk.js.map",
+    "main.css": "/static/css/main.d1c74908.chunk.css",
+    "main.js": "/static/js/main.f8d48493.chunk.js",
+    "main.js.map": "/static/js/main.f8d48493.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9101ca26.js",
     "runtime-main.js.map": "/static/js/runtime-main.9101ca26.js.map",
-    "static/js/2.ba355985.chunk.js": "/static/js/2.ba355985.chunk.js",
-    "static/js/2.ba355985.chunk.js.map": "/static/js/2.ba355985.chunk.js.map",
+    "static/js/2.387e354d.chunk.js": "/static/js/2.387e354d.chunk.js",
+    "static/js/2.387e354d.chunk.js.map": "/static/js/2.387e354d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.76afd1e138f41ca0a5026e6325c787c6.js": "/precache-manifest.76afd1e138f41ca0a5026e6325c787c6.js",
+    "precache-manifest.aef5143ebe2eb7da01b915864ef23d7e.js": "/precache-manifest.aef5143ebe2eb7da01b915864ef23d7e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.31313403.chunk.css.map": "/static/css/main.31313403.chunk.css.map",
-    "static/js/2.ba355985.chunk.js.LICENSE.txt": "/static/js/2.ba355985.chunk.js.LICENSE.txt",
-    "static/media/blonde.png": "/static/media/blonde.f9b5142d.png",
-    "static/media/service-manicure.png": "/static/media/service-manicure.e0653a40.png",
-    "static/media/service-mechas.png": "/static/media/service-mechas.5661db01.png",
-    "static/media/service-sobrancelha.png": "/static/media/service-sobrancelha.25039cf6.png"
+    "static/css/main.d1c74908.chunk.css.map": "/static/css/main.d1c74908.chunk.css.map",
+    "static/js/2.387e354d.chunk.js.LICENSE.txt": "/static/js/2.387e354d.chunk.js.LICENSE.txt",
+    "static/media/blonde.png": "/static/media/blonde.a05357d5.png",
+    "static/media/cta-button.png": "/static/media/cta-button.1e0d2e5d.png",
+    "static/media/global.css": "/static/media/hairstylist.956917d0.png",
+    "static/media/service-hair.png": "/static/media/service-hair.220789dd.png",
+    "static/media/service-nail.webp": "/static/media/service-nail.71623b02.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.9101ca26.js",
-    "static/js/2.ba355985.chunk.js",
-    "static/css/main.31313403.chunk.css",
-    "static/js/main.4fbdc3fa.chunk.js"
+    "static/js/2.387e354d.chunk.js",
+    "static/css/main.d1c74908.chunk.css",
+    "static/js/main.f8d48493.chunk.js"
   ]
 }

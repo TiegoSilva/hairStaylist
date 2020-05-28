@@ -17,7 +17,7 @@ export default function Home() {
           Raízes mais fortes,<br />
           Cabelo tudo OK!
         </h2>
-        <img src={BlondeHair} alt="Cabelo loiro"/>
+        <img src={BlondeHair} alt="Cabelo loiro" className="mainImage"/>
       </div>
     </div>
   );

@@ -26,7 +26,7 @@ export default function Contact() {
         </div>
 
         <div className="addressText">
-          <h6>Rua São Geraldo,  2 - Parque Xerem, Duque de Caxias - RJ, 25241-390, Brasil</h6>
+          <h6>Rua Araguaia,  1055 - Freguesia, Jacarepaguá - RJ, 22745-270, Brasil</h6>
         </div>
       </div>
     </div>

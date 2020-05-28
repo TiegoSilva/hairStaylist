@@ -18,6 +18,12 @@
     font-weight: 400;
 }
 
+.mainImage{ 
+    position: absolute;
+    width: 1440px;
+    height: 900px;
+    bottom: 0px;
+}
 
 .container-home .title-session{
     display: flex;
