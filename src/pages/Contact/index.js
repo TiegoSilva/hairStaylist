@@ -4,7 +4,7 @@ import './styles.css'
 
 import Header from '../../components/Header'
 import Cta from './../../assets/cta-button.png';
-
+import LogoAja  from './../../assets/poweredby.png';
 
 export default function Contact() {
   return (
@@ -26,7 +26,11 @@ export default function Contact() {
         </div>
 
         <div className="addressText">
-          <h6>Rua Araguaia,  1055 - Freguesia, Jacarepaguá - RJ, 22745-270, Brasil</h6>
+          <h6>Rua São Geraldo, 2 - Parque Xerém - Brasil</h6>
+          
+          <a href="https://ajasolucoesdigitais.com.br">  
+            <img src={LogoAja} alt="logo da aja" className="logo-aja"/>
+          </a>
         </div>
       </div>
     </div>
