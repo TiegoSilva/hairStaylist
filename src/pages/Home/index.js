@@ -4,7 +4,8 @@ import './styles.css'
 
 import Header from '../../components/Header'
 
-import BlondeHair from '../../assets/laistrotta.png'
+import BlondeHair from '../../assets/laistrotta-wide.png'
+import BlondeHairReduced from '../../assets/laistrotta.png'
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
           As raízes mais fortes!<br />
         </h2>
         <img src={BlondeHair} alt="Cabelo loiro" className="mainImage"/>
+        <img src={BlondeHairReduced} alt="Cabelo loiro" className="mobileImage"/>
       </div>
     </div>
   );

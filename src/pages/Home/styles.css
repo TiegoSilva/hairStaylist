@@ -33,7 +33,10 @@
     width: 100%; 
     text-align: center;
 }
-
+.mobileImage{ 
+    display: none;
+    max-width: 90%;
+}
 @media(max-width: 960px){
     *{
         max-width: 100%;
@@ -41,5 +44,18 @@
     .container-home{
         max-width: 90%;
         margin: auto;
+    }
+    .mainImage{ 
+        display: none;
+    }
+    .mobileImage{ 
+        position: absolute;
+        left: 20px;
+        bottom: 0px; 
+
+        display: block;
+        
+        width: 100%;
+        height: auto;
     }
 }
